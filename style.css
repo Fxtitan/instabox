@@ -1,0 +1,68 @@
+.body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#logo {
+    padding-right: 1000px;
+    padding-left: 100px;
+    height: 500px;
+    width: 100px;
+}
+
+.middleRight {
+    display: flex;
+    flex-direction: column;
+}
+
+.following {
+    border: solid black 1px;
+    font-weight: 600;
+}
+
+.check-mark {
+    display: inline;
+    height: 15px;
+}
+
+.middlerighttwo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    text-align: center;
+    width: 70%;
+}
+
+.firstTry {
+    flex-direction: row;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.bold {
+    font-weight: bold;
+    color: black;
+}
+
+.heart {
+height: 15px;
+}
+
+.info {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.Master-Container {
+
+}
+
+/* put in containter top row */
